@@ -9,7 +9,7 @@
 5.  **Task 5:** Управление серверным состоянием с помощью TanStack Query.
 6.  **Task 6:** Миграция на Next.js с Server-Side Rendering и интернационализацией.
 
-**Деплой приложения:** **[https://rs-react-2025-sudorgin-daniils-projects.vercel.app/](https://rs-react-2025-sudorgin-daniils-projects.vercel.app/)**
+**Деплой приложения:** **[https://artworks-search.demo.sudorgin.com/](https://artworks-search.demo.sudorgin.com/)**
 
 ## Обзор функционала
 
@@ -56,17 +56,11 @@
 1.  **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/Zilusion/rs-react-2025.git
-    cd rs-react-2025
+    git clone https://github.com/Zilusion/Artworks-Search.git
+    cd Artworks-Search
     ```
 
-2.  **Переключитесь на актуальную рабочую ветку:**
-
-    ```bash
-    git checkout nextjs-ssr
-    ```
-
-3.  **Установите зависимости:**
+2.  **Установите зависимости:**
     - **С помощью `pnpm` (рекомендуется):**
       ```bash
       pnpm install
